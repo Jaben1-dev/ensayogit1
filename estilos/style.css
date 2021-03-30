@@ -1,0 +1,28 @@
+/*APLICAR ESTILO AL SELECTOR*/
+
+h1{
+    color:#7FFFD4;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+}
+
+h2{
+    color:#A41E63;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+}
+
+h3{
+    color:#157555;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+}
+
+/*creando selector de clase*/
+.titulo{
+    color:#CA5893;
+    text-align: right;
+}
